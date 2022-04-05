@@ -2,7 +2,8 @@
 <div align="center">
   <a href="https://github.com/SamukaCode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamukaCode&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img align="center" width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamukaCode&layout=compact&langs_count=7&theme=github_dark"/>
+  <img align="center" width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?SamukaCode=myusername&theme=github_dark"/>
+    
 </div>
   <div align="center" style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
