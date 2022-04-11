@@ -1,4 +1,4 @@
-##Olá eu sou o Samuel,desenvolvedor de software
+Olá eu sou o Samuel,desenvolvedor de software
 <div align="center">
   <a href="https://github.com/SamukaCode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamukaCode&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
