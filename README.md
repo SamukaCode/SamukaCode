@@ -2,7 +2,6 @@ Olá eu sou o Samuel,desenvolvedor de software
 <div align="center">
   <a href="https://github.com/SamukaCode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamukaCode&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img align="center" width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamukaCode&theme=github_dark"/>
     
 </div>
   <div align="center" style="display: inline_block"><br>
