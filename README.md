@@ -7,11 +7,3 @@
   <div align="center" style="display: inline_block"><br>
  <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamukaCode&layout=compact&theme=github_dark"/>
-
-### Languages:
-  <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />       
-</div>
