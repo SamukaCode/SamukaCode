@@ -67,20 +67,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamukaCode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamukaCode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=SamukaCode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SamukaCode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=SamukaCode&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamukaCode&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 </div>
 
 ---
@@ -94,45 +86,6 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/SamukaCode/SamukaCode/output/github-snake.svg" />
   </picture>
 </div>
-
-> ⚠️ Para ativar o Snake Game, crie o arquivo `.github/workflows/snake.yml` no seu repositório `SamukaCode/SamukaCode` com o conteúdo do bloco abaixo.
-
-<details>
-<summary>📄 Clique aqui para ver o workflow do Snake Game</summary>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: SamukaCode
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
