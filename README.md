@@ -71,10 +71,6 @@
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SamukaCode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SamukaCode&theme=tokyonight&hide_border=true" />
-</div>
-
 ---
 
 ## 🐍 Minhas Contribuições
