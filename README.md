@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1!+Eu+sou+o+Samuel+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Apaixonado+por+tecnologia+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1!+Eu+sou+o+Samuel+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Apaixonado+por+tecnologia+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://linkedin.com/in/samuel--camargo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -28,7 +28,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### ⚙️ Back-End
 
@@ -55,7 +54,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=Trello&logoColor=white)
 
 ### 📊 Dados & Automação
 
@@ -74,7 +72,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamukaCode&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=SamukaCode&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
